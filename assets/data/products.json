@@ -1,0 +1,18 @@
+[{
+    "_id": {
+      "$oid": "5f15d8852a025143f9593a7c"
+    },
+    "brand": "PS3",
+    "price": 250000,
+    "name": "Nguyễn Lâm Trường",
+    "address": "Bình Thạnh, TP.HCM",
+    "phone": "0987356718",
+    "day": "Thứ 6, 22/2/2022 - 14:00",
+    "products":"Tối đa 80m2",
+    "description": "The most hard FIFA ever",
+    "category": {
+      "$oid": "5f15d5cdcb4a6642bddc0fe9"
+    },
+    "countInStock": 25,
+    "__v": 0
+  }]
